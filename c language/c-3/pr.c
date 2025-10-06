@@ -1,0 +1,23 @@
+#include <stdio.h>
+
+
+int main()
+{
+	printf("\n _ _ _ _ _ _ _ _ ");                printf("\t\t\t _ _ _ _ _ _ _ _");                  printf("\t\t\t_ _ _ _ _ _ _ _ _");                            printf("\t\t\t|\\               |");                      printf("\t\t\t\t _ _ _ _ _ _ _ _ _ _");             printf("\t\t\t_ _ _ _ _ _ _ _ _ _");                                                                        
+	printf("\n|\t\t\t\t|");                       printf("\t\t\t|\t\t\t\t|");                        printf("\t\t\t\t\t|");                                        printf("\t\t\t\t\t| \\              |");                  printf("\t\t\t\t|");                                printf("\t\t\t\t\t\t\t\t|");
+	printf("\n|\t\t\t\t|");                       printf("\t\t\t|\t\t\t\t|");                         printf("\t\t\t\t\t|");                                       printf("\t\t\t\t\t|  \\             |");                  printf("\t\t\t\t|");                                printf("\t\t\t\t\t\t\t\t|");
+	printf("\n|\t\t\t\t|");                        printf("\t\t\t|\t\t\t\t|");                        printf("\t\t\t\t\t|");                                       printf("\t\t\t\t\t|   \\            |");                  printf("\t\t\t\t|");                                printf("\t\t\t\t\t\t\t\t|");
+	printf("\n|\t\t\t\t|");                        printf("\t\t\t|\t\t\t\t|");                         printf("\t\t\t\t\t|");                                      printf("\t\t\t\t\t|    \\           |");                  printf("\t\t\t\t|");                                printf("\t\t\t\t\t\t\t\t|");
+	printf("\n|\t\t\t\t|");                        printf("\t\t\t|\t\t\t\t|");                           printf("\t\t\t\t\t|");                                    printf("\t\t\t\t\t|     \\          |");                  printf("\t\t\t\t|");                                printf("\t\t\t\t\t\t\t\t|");
+	printf("\n| _ _ _ _ _ _ _ |");                 printf("\t\t\t|_ _ _ _ _ _ _ _|");                    printf("\t\t\t\t\t|");                                    printf("\t\t\t\t\t|      \\         |");                  printf("\t\t\t\t|");                                printf("\t\t\t\t\t\t\t\t|");
+	printf("\n|");                                 printf("\t\t\t\t\t\t\t|\\");                           printf("\t\t\t\t\t\t\t\t\t|");                           printf("\t\t\t\t\t|       \\        |");                  printf("\t\t\t\t|");                                printf("\t\t\t\t\t\t\t\t|----------------");
+	printf("\n|");                                 printf("\t\t\t\t\t\t\t| \\");                           printf("\t\t\t\t\t\t\t\t\t|");                          printf("\t\t\t\t\t|        \\       |");                  printf("\t\t\t\t|");                                printf("\t\t\t\t\t\t\t\t|");
+	printf("\n|");                                 printf("\t\t\t\t\t\t\t|  \\");                           printf("\t\t\t\t\t\t\t\t|");                           printf("\t\t\t\t\t|         \\      |");                  printf("\t\t\t\t|");                                printf("\t\t\t\t\t\t\t\t|");
+	printf("\n|");                                 printf("\t\t\t\t\t\t\t|   \\");                           printf("\t\t\t\t\t\t\t\t|");                          printf("\t\t\t\t\t|          \\     |");                  printf("\t\t\t\t|");                                printf("\t\t\t\t\t\t\t\t|");
+	printf("\n|");                                 printf("\t\t\t\t\t\t\t|    \\");                           printf("\t\t\t\t\t\t\t\t|");                         printf("\t\t\t\t\t|           \\    |");                  printf("\t\t\t\t|");                                printf("\t\t\t\t\t\t\t\t|");
+	printf("\n|");                                 printf("\t\t\t\t\t\t\t|     \\");                           printf("\t\t\t\t\t\t\t\t|");                        printf("\t\t\t\t\t|            \\   |");                  printf("\t\t\t\t|");                                printf("\t\t\t\t\t\t\t\t|");
+	printf("\n|");                                 printf("\t\t\t\t\t\t\t|      \\");                          printf("\t\t\t\t\t\t\t|");                          printf("\t\t\t\t\t|             \\  |");                  printf("\t\t\t\t|");                                printf("\t\t\t\t\t\t\t\t|");
+	printf("\n|");                                 printf("\t\t\t\t\t\t\t|       \\");                          printf("\t\t\t\t\t_ _ _ _ | _ _ _ _ _");           printf("\t\t\t|              \\ |");                      printf("\t\t\t\t| _ _ _ _ _ _ _ _ _ _ ");           printf("\t\t\t| _ _ _ _ _ _ _ _ _ _ ");
+	
+	
+}
