@@ -2,6 +2,9 @@
 
 This project is a simple **C program** that calculates the length of a string **without using built-in functions like `strlen()`**. Instead, it demonstrates how to use **pointers** to traverse a string character by character.
 
+<img width="594" height="648" alt="Screenshot 2025-12-19 154024" src="https://github.com/user-attachments/assets/b3395e34-83f8-42c7-8d4e-2972ef694ced" />
+
+
 ---
 
 ## 📌 Program Overview
@@ -98,5 +101,8 @@ The length of a string is: 6
 * Loop-based string processing
 
 ---
+<img width="712" height="749" alt="Screenshot 2025-12-19 153451" src="https://github.com/user-attachments/assets/6cf61501-f0cb-4bf6-ab24-89950900b1f1" />
+<img width="743" height="934" alt="Screenshot 2025-12-19 153415" src="https://github.com/user-attachments/assets/05982935-d5f4-4375-b98f-f6bed2338635" />
+
 
 
